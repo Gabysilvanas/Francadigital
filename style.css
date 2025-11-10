@@ -21,3 +21,15 @@ p {
 .cordolec {
     color:rgb(216, 98, 177)
 }
+
+.conteudo {
+    display: flex;
+    align-items: center; /* Texto na vertical */
+    justify-content: center; /* Texto na horizontal */
+    text-align: center; /* centraliza o texto */
+    min-height: 180px; 
+    padding:  16px; 
+    border: 1px solid #ddd;
+    background: #fafafa;
+
+   }
