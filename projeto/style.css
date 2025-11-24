@@ -173,7 +173,7 @@ box-shadow: 0 30px 45px rgba(245, 21, 245, 0.678);
 
 img:hover {
   transform: scale(1.05) rotate(-1deg);
-  box-shadow: 0 30px 45px rgba(248, 15, 248, 0.678);
+  box-shadow: 0 30px 45px rgba(243, 89, 243, 0.925);
 }
 
 
@@ -185,13 +185,13 @@ img:hover {
   position: fixed;  
   bottom: 20px;
   right: 20px;    
-  background-color: #b8007a;
+  background-color: #ff54c6;
   color: white;
   padding: 14px 20px;
 border-radius: 999px;
 font-weight: 600;
 text-decoration: none;
-box-shadow: 0 20px 35px rgba(241, 93, 204, 0.35);
+box-shadow: 0 20px 35px rgba(236, 83, 198, 0.493);
 display: inline-flex;
 align-items: center;
 gap: 8px;
